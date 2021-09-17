@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ohmgcj
-- 👀 I’m interested in automation, JS and Python.
+- 👀 I’m interested in automation in general.
 - 🌱 I’m currently learning JS and Python.
 -<!-- 💞️ I’m looking to collaborate on ...
 -->
