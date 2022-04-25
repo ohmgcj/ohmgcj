@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @ohmgcj
 - 👀 I’m interested in programing in general.
 - 🌱 I’m currently learning JS.
--<!-- 💞️ I’m looking to collaborate on ...
--->
+
 - 📫 How to reach me:
-- Email: godoyj4@outlook.com
-- LinkedIn: linkedin.com/in/caio-alves-636157194/
+  Email: godoyj4@outlook.com
+  LinkedIn: linkedin.com/in/caio-alves-636157194/
 
  <div>
   <a href="https://github.com/ohmgcj">
