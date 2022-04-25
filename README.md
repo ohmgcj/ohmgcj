@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning JS.
 
 - 📫 How to reach me:
-  Email: godoyj4@outlook.com
-  LinkedIn: linkedin.com/in/caio-alves-636157194/
+1.Email: godoyj4@outlook.com
+2.LinkedIn: linkedin.com/in/caio-alves-636157194/
 
  <div>
   <a href="https://github.com/ohmgcj">
