@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @ohmgcj
-- 👀 I’m interested in programing in general.
-- 🌱 I’m currently learning JS.
+- Hi! I'm Caio Alves, I live in São Paulo and I'm very passionate about javascript 🦏
 
 - 📫 How to reach me:
 		<br>Email: godoyj4@outlook.com 
