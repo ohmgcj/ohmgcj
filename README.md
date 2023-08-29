@@ -14,7 +14,5 @@ I live in São Paulo and I'm very passionate about javascript 🦏
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 ![Git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git)
 
- <div>
-  <a href="https://github.com/ohmgcj">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohmgcj&layout=compact&langs_count=7&theme=dark"/>
-</div>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ohmgcj&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&exclude_repo=ohmgcj.github.io,portfolio-teste
+)
