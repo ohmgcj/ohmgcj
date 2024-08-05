@@ -5,7 +5,7 @@ I live in São Paulo and I'm very passionate about javascript 🦏
 ### 📫 How to reach me:
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/caio-alves-636157194/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/godoy.js/)
+<!---[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/godoy.js/)--->
 [![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github)](https://github.com/ohmgcj)
 ### 🛠 Hard Skills
 
