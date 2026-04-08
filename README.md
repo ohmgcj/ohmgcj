@@ -1,10 +1,12 @@
-# Hello, I'm Caio!
- 👋
-I live in São Paulo and I'm very passionate about javascript 🦏
+Hello, I'm Caio 👋
 
-✍ I’m currently learning React Native, Tailwind, Gluestack-ui v2
+Mobile Developer based in São Paulo, focused on JavaScript and modern interfaces.
 
-✉ Ask me about **React**, **React Native**, **JavaScript**, **Typescript**
+I build applications with React Native, using tools like NativeWind and Gluestack UI to create clean and consistent user experiences.
+
+Currently expanding to the web with Next.js.
+
+✉ Ask me about React, React Native, JavaScript and TypeScript
 
 🛠 Hard Skills
 
