@@ -23,4 +23,4 @@ Mobile developer from São Paulo, Brazil, building with **React Native, Expo and
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 
 #### Contact
-[LinkedIn](https://www.linkedin.com/in/caio-alves-636157194/) · [Portfolio](https://ivory-zebra-157570.hostingersite.com/)
+[LinkedIn](https://www.linkedin.com/in/caio-alves-636157194/) · [Portfolio](https://caiogodoy.dev)
